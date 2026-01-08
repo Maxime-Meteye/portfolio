@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 # Maxime Météyé
@@ -11,3 +11,7 @@ lorem ipsum dolor sit amet
 lorem ipsum dolor sit amet
 
 ## Expériences professionelles
+
+lorem ipsum dolor sit amet
+lorem ipsum dolor sit amet
+
