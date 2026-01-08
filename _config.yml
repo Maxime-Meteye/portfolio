@@ -27,6 +27,8 @@ url: "https://maxime-meteye.github.io" # the base hostname & protocol for your s
 github_username:  Maxime-Meteye
 # Build settings
 theme: minima
+collections:
+  projects:
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
