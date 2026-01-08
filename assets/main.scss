@@ -8,3 +8,26 @@ img{
     width: 100px;
     margin-inline: auto;
 }
+
+.project-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2%;   
+}
+
+.project-list h2{
+    font-size: 26px;
+}
+
+.project-list :is(h2,h3,h4,h5,a){
+    text-align: center;
+}
+
+.project-card{
+    width: 48%;
+    border-radius: 16px;
+    box-sizing: border-box;
+    border: 1px solid #aaa6;
+    padding-inline: 4px;
+}
