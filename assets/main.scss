@@ -34,10 +34,17 @@ img{
     padding-inline: 4px;
     transition: border 0.2s ease, outline 0.2s ease;
 }
+.project-card, input, textarea{
+    border: 1px solid #555d;
+}
+
+:is(.project-card, input, textarea):hover{
+    outline: 1px solid #555F;
+}
 
 .project-card:hover{
     border: 1px solid #555d;
-    box-shadow: 0px 0px 2px 5px #5555 ;
+    box-shadow: 0px 0px 5px 2px #5555 ;
 }
 
 
@@ -73,6 +80,7 @@ form button{
     
 }
 
-form button, form input, form textarea{
+
+form button, input, textarea{
     border-radius: 4px;
 }
