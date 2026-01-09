@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projets
-permalink: /my_projects/
+permalink: /projects/
 ---
 
 <section class="project-list">
@@ -10,7 +10,7 @@ permalink: /my_projects/
 
 <article class="project-card">
 
-    <h2>{{ project.name }}</h2>
+    <h2>{{ project.title }}</h2>
     <div>
         <h3>Objectifs :</h3>
         <ul>

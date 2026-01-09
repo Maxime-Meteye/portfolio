@@ -26,8 +26,15 @@ img{
 
 .project-card{
     width: 48%;
+    margin-top: 2%;
     border-radius: 16px;
     box-sizing: border-box;
     border: 1px solid #aaa6;
     padding-inline: 4px;
+    transition: border 0.2s ease, outline 0.2s ease;
+}
+
+.project-card:hover{
+    border: 1px solid #555d;
+    box-shadow: 0px 0px 2px 5px #5555 ;
 }
