@@ -4,7 +4,8 @@ description: "Création d'un site web pour un restaurant fictif"
 full_description: "Création d'un site web pour un restaurant fictif avec accès admin, affichage d'informations extraites d'une base de données MariaDB."
 result: "Site web fonctionnel et apprentissage des bases de l'html, css, js et php"
 work-date: "04/2025"
-permalink: /projects/:name/
+#permalink: /projects/:name/
+permalink: /projects/:path/
 layout: page
 title: "Le gout du Quebec"
 ---
