@@ -4,7 +4,7 @@ description: "Recréation du site web d'un restaurant fictif avec framework VueJ
 full_description: "Création d'un site web pour un restaurant fictif avec accès admin, affichage d'informations extraites d'une base de données MariaDB."
 result: "Site web fonctionnel, utilisation du framework VueJs"
 work-date: "05/2025"
-permalink: /projects/:name/
+permalink: /:name/
 layout: page
 title: "Le gout du Quebec, version VueJs"
 ---

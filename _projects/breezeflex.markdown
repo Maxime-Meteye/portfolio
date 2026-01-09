@@ -4,7 +4,7 @@ description: "Création d'un framework CSS"
 full_description: "Création d'un framework css, permettant de positionner des éléments sur une page web avec un systeme de division en 12 colones, systeme de theme qui permet de styliser rapidement de nombreux éléments d'une page web, créations de checkbox style interrupteur etc."
 result: "Projet techniquement fonctionnel, gains de compétences en Sass et CSS, mais framework difficilement utilisable."
 work-date: "10/2025"
-permalink: /projects/:name/
+permalink: /:name/
 layout: page
 title: "Breezeflex"
 link: "https://maxime-meteye.github.io/breezeFlex/"
