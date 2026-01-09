@@ -8,6 +8,6 @@ layout: default
 
 # Portfolio de Maxime Météyé
 
-![Photo de Maxime Météyé]({{"assets/ph_maxime_meteye.svg" | relative_url}})
+![Photo de Maxime Météyé](assets/ph_maxime_meteye.svg)
 
 lorem ipsum dolor sit amet lorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit ametlorem ipsum dolor sit amet
