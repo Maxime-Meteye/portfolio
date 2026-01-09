@@ -27,7 +27,7 @@ permalink: /projects/
         <h5>Résultat :</h5>
         <p>{{ project.result }}</p>
     </div>
-    <a href=".{{ project.url | relative_url }}">En savoir plus</a>
+    <a href="{{ project.url | relative_url }}">En savoir plus</a>
 </article>
 
 {% endfor %}

@@ -5,7 +5,7 @@ full_description: "Création d'un site web pour un restaurant fictif avec accès
 result: "Site web fonctionnel et apprentissage des bases de l'html, css, js et php"
 work-date: "04/2025"
 #permalink: /projects/:name/
-permalink: /:name/
+permalink: /projects/:name/
 layout: page
 title: "Le gout du Quebec"
 ---

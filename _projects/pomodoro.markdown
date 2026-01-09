@@ -4,7 +4,7 @@ description: "Création d'un Pomodoro"
 full_description: "Création d'un pomodoro, avec le framework VueJs, Pinia"
 result: "Site fonctionnel avec gestion du local storage, Travail récurisif sur un arbre de tache à l'architecture inconnu, projet présentable sur mobile"
 work-date: "10/2025"
-permalink: /:name/
+permalink: /projects/:name/
 layout: page
 title: "Pomodoro"
 link: "https://maxime-meteye.github.io/pomodoro/"

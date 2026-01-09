@@ -4,7 +4,7 @@ description: "Création d'un Game of life, avec moteur de jeu maison utilisant l
 full_description: "Création d'un Game of life, avec moteur de jeu indépendant fait maison. Le moteur de jeu est optimisé pour la gestion d'affichage pixel par pixel. Utilisation de la méthode 'double buffering' pour optimiser la fréquence d'affichage"
 result: "Projet fonctionnel et publique, objectifs accomplis."
 work-date: "04/2025"
-permalink: /:name/
+permalink: /projects/:name/
 layout: page
 title: "Game of life"
 link: "https://maxime-meteye.github.io/game-of-life/"
