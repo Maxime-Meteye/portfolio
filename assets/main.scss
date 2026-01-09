@@ -3,10 +3,17 @@
 
 @use "minima";
 
+
+:root{
+    --outline-hover-color: #555F;
+}
+
+
 img{
     display: block;
     width: 100px;
     margin-inline: auto;
+    border-radius: 5px;
 }
 
 .project-list{
@@ -34,17 +41,17 @@ img{
     padding-inline: 4px;
     transition: border 0.2s ease, outline 0.2s ease;
 }
-.project-card, input, textarea{
+.project-card, input, textarea,form button{
     border: 1px solid #555d;
 }
 
-:is(.project-card, input, textarea):hover{
-    outline: 1px solid #555F;
+:is(.project-card, input, textarea, form button):hover{
+    outline: 1px solid var(--outline-hover-color);
 }
 
 .project-card:hover{
     border: 1px solid #555d;
-    box-shadow: 0px 0px 5px 2px #5555 ;
+    box-shadow: 0px 0px 5px 2px var(--outline-hover-color) ;
 }
 
 
@@ -77,9 +84,11 @@ form button{
     padding: 5px 10px;
     margin-top: 2em;
     height: min-content;
-    
 }
 
+form button:hover{
+    background-color: #ddd;
+}
 
 form button, input, textarea{
     border-radius: 4px;

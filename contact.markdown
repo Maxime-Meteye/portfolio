@@ -5,7 +5,7 @@ title: Me contacter
 layout: default
 ---
 
-<form>
+<form method="post">
     <label>
         Votre E-mail
         <input type="email" name="email" required />
